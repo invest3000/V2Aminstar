@@ -81,4 +81,6 @@ vless://e7a9fe3b-c10f-4a67-8f7b-e22c9c246d8d@162.159.7.198:443?encryption=none&s
 vless://e6c7ed63-89db-4ae1-a3f8-7a722921b3b2@198.62.62.127:443?encryption=none&security=tls&sni=apii.onlineshoppingez.ir&alpn=http%2F1.1&fp=chrome&type=ws&host=apii.onlineshoppingez.ir&path=%2FO1w0n3vYgFKYs7EzNAvLPvOp#%E2%9A%A1%EF%B8%8F%20Amin%2082%20%E2%9A%A1%EF%B8%8F
 vless://dc4ac680-0626-4005-83f5-111ae1a3045d@n4.asamping.ir:2082?encryption=none&security=none&type=ws&path=%2F#%E2%9A%A1%EF%B8%8F%20Amin%2083%20%E2%9A%A1%EF%B8%8F
 vless://0569f3ce-447b-4ac5-aae3-b47ae55351f7@167.82.92.159:80?encryption=none&security=none&type=ws&host=dayous.global.ssl.fastly.net&path=%2F#%E2%9A%A1%EF%B8%8F%20Amin%2084%20%E2%9A%A1%EF%B8%8F
+vless://98d677be-b14b-4c14-a96b-4a39a3be645a@chatgpt.com:443?encryption=none&security=tls&sni=t86y6leiyaph7tsvb170x7vfx0-3dvh3.vrezht08.workers.dev&alpn=http%2F1.1&fp=chrome&type=ws&host=t86y6leiyaph7tsvb170x7vfx0-3dvh3.vrezht08.workers.dev&path=%2FeyJqdW5rIjoiZHJmTGlJSmciLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed%3D2560#%E2%9A%A1%EF%B8%8F%20Amin%2085%20%E2%9A%A1%EF%B8%8F
+
 
